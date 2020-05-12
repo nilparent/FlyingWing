@@ -1,2 +1,2 @@
 # FlyingWing
-For devellopment of an optimized flying wing design
+For development of an optimized flying wing design
